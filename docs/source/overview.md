@@ -14,4 +14,5 @@ In order to best make use of these weather briefing resources ensure that you ar
 The goal of these resources are to provide the user with enough resources to give a variety briefings, ranging from the national scale to a point forecast at a specific location.
 
 If you have any suggestions for new sites to add or if you notice a link is outdates/no longer exits please do not hesitate to reach out to:
-lbuchart@eoas.ubc.ca or Liam.Buchart@nrcan-rncan.gc.ca.
+> lbuchart@eoas.ubc.ca 
+> Liam.Buchart@nrcan-rncan.gc.ca.
