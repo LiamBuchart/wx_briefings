@@ -8,7 +8,7 @@ Weather Briefing Documentation
 
 Useful resources for constructing your next weather briefing. 
 
-In order to best make use of these weather briefing resources ensure that you are following the Forecast Funnel (`https://www.weather.gov/rah/virtualtourforecast`). Ensure that you ground yourself in the large scale weather patterns, see what process are driving your current weather. From here you can move slowly down to finer scales and see what mesoscale and microscale processes are influencing you local weather. 
+In order to best make use of these weather briefing resources ensure that you are following the Forecast Funnel (`https://www.weather.gov/rah/virtualtourforecast`). Start by grounding yourself in the large scale weather patterns, see what process are driving your current weather. From here you can move slowly down to finer scales and see what mesoscale and microscale processes are influencing you local weather. 
 
 .. image:: _static/forecast_funnel.gif
    :alt: Forecast Funnel
@@ -19,7 +19,7 @@ In order to best make use of these weather briefing resources ensure that you ar
    :maxdepth: 2
    :caption: Contents:
 
-   overview
+   overview.md
 
 Indices and tables
 ==================
