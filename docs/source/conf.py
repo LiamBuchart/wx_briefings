@@ -15,6 +15,7 @@ release = '0.1'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
+    'myst_parser',
     "sphinx.ext.mathjax",
     "sphinx.ext.autodoc",
     "sphinx.ext.coverage",
