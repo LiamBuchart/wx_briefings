@@ -1,0 +1,24 @@
+/* Custom site styles for wx_briefings
+   Adjust second-level headers (h2) font-size and indentation.
+   Tweak the values below as you like.
+*/
+
+/* Target h2s inside the main document/content area used by Sphinx themes */
+.rst-content h2,
+.document h2,
+.content h2 {
+  /* Font size: increase or decrease as needed */
+  font-size: 1.25rem; /* ~20px on a 16px base */
+
+  /* Indentation: move the heading to the right */
+  margin-left: 1.0rem;
+
+  /* Optional: reduce the top margin if headings look too spaced */
+  margin-top: 1.25rem;
+}
+
+/* If your theme wraps page content differently, fall back to a generic rule */
+body h2 {
+  /* Keep this smaller priority so theme rules can override if needed */
+  font-weight: 600;
+}
