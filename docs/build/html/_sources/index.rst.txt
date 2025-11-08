@@ -26,10 +26,10 @@ In order to best make use of these weather briefing resources ensure that you ar
 The goal of these resources are to provide the user with enough resources to give a variety briefings, ranging from the national scale to a point forecast at a specific location.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
-   observations.md 
+   observations.md <Observations>
    models.md <Forecast Models>
    interpretation.md <Products, Blogs, and Interpretation>
 
