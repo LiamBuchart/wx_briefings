@@ -34,10 +34,6 @@ exclude_patterns = []
 
 html_theme = 'insegel'
 html_static_path = ['_static']
-# Add custom CSS files placed in _static/
-html_css_files = [
-    'custom.css',
-]
 
 # -- Path setup --------------------------------------------------------------
 # If extensions (or modules to document with autodoc) are in another directory,
