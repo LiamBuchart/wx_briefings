@@ -23,15 +23,15 @@ In order to best make use of these weather briefing resources ensure that you ar
    :align: center
    :width: 600px
 
-The goal of these resources are to provide the user with enough resources to give a variety briefings, ranging from the national scale to a point forecast at a specific location.
+The goal of these tabs and pages is to provide the user with enough resources to give a variety briefings, ranging from the national scale to a point forecast at a specific location.
 
 .. toctree::
    :maxdepth: 1
    :caption: Contents:
 
-   observations.md <Observations>
-   models.md <Forecast Models>
-   interpretation.md <Products, Blogs, and Interpretation>
+   observations
+   models
+   interpretation
 
 Indices and tables
 ==================
