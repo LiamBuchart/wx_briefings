@@ -27,7 +27,6 @@ The goal of these tabs and pages is to provide the user with enough resources to
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
    :titlesonly:
 
    observations
