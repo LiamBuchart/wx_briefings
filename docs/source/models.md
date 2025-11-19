@@ -51,6 +51,7 @@ A variety of model forecast websites. Note that only a few of these websites foc
 -----------
 
 ### BlueSky - Smoke
+
 > > [FireSmoke](https://firesmoke.ca/)
 
 > Access surface smoke modeling as well as an FWI forecast. Additionally, BlueSky Playground is available to run different emissions scenarios for prescribed fires. 
@@ -58,6 +59,7 @@ A variety of model forecast websites. Note that only a few of these websites foc
 -----------
 
 ### North American Pollution Center
+
 > > [NA RVFSP-WAC](https://hpfx.collab.science.gc.ca/~svfs000/na-vfsp-was/public/dist/smoke-forecasting/individual-models)
 
 > Multi-model viewer for PM2.5 and other smoke related variables. Also a link for CWFIS fire weather maps and subseasonal outlook maps.
@@ -100,7 +102,7 @@ A variety of model forecast websites. Note that only a few of these websites foc
 
 ### World Meteorological Society Sub-Seasonal Forecast
 
-> > (WMO Weekly Outlooks)(https://charts-dev.ecmwf.int/wmo/charts?facets=%7B%22Models%22%3A%5B%22Customized%20Multi-Model%22%5D%7D)
+> > [WMO Weekly Outlooks](https://charts-dev.ecmwf.int/wmo/charts?facets=%7B%22Models%22%3A%5B%22Customized%20Multi-Model%22%5D%7D)
 
 > Plot a variety of models subseasonal forecast. User can select a desired subset of models for temperature, precipitation, and sea level pressure, 500hPa heights, and 850hPa temperature. 
 
