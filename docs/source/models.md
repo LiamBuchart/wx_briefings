@@ -2,7 +2,9 @@
 
 A variety of model forecast websites. Note that only a few of these websites focus on Canada, it is often a necessary compromise to use a broad domain to forecast for Canada. 
 
-===========
+-----------
+-----------
+-----------
 
 ### MSc Animet
 
@@ -83,6 +85,9 @@ A variety of model forecast websites. Note that only a few of these websites foc
 -----------
 
 ## Seasonal Forecasting
+
+-----------
+-----------
 
 ### National Multimodel Ensemble
 
