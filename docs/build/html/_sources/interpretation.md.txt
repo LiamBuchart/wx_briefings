@@ -2,10 +2,14 @@
 
 Here are a variety of resources ranging from polished, professional forecast products to blogs and forecast discussions. 
 
-===========
+-----------
+-----------
+-----------
 
 ## Forecast Products
 
+-----------
+-----------
 
 ### NAV Canada GFA
 
@@ -18,6 +22,8 @@ Here are a variety of resources ranging from polished, professional forecast pro
 
 ## Text Products
 
+-----------
+-----------
 
 ### FOCN45
 
