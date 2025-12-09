@@ -34,6 +34,7 @@ The goal of these tabs and pages is to provide the user with enough resources to
    models
    interpretation
    climatology
+   Internal
 
 Indices and tables
 ==================
