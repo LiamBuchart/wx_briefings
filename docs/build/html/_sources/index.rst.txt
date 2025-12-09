@@ -26,7 +26,7 @@ In order to best make use of these weather briefing resources ensure that you ar
 The goal of these tabs and pages is to provide the user with enough resources to give a variety briefings, ranging from the national scale to a point forecast at a specific location.
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Products:
    :titlesonly:
 

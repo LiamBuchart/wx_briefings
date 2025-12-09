@@ -34,6 +34,14 @@ A variety of model forecast websites. Note that only a few of these websites foc
 
 > A wide range of model output for a variety of application. Pivotal has create resources for convective forecasting and winter weather. 
 
+----------
+
+### Spot Wx
+
+> > [Spot](https://spotwx.com/)
+
+> Great website to get timeseries from numerous global forecast models. The website shows the locations and size of the gridcell being grabbed from each location. 
+
 -----------
 
 ### Climate Prediction Center Madden Julian Oscillation Forecast
@@ -104,6 +112,14 @@ A variety of model forecast websites. Note that only a few of these websites foc
 > Monthly means of precipitation and 2m temperature anomalies from the International Multi-Model Ensemble. Produced by the Climate Prediction Center. 
 
 -----------
+
+### CanSIPS Canada Seasonal Forecast
+
+> > [CanSIPS](https://climate-scenarios.canada.ca/?page=seasonal-forecasts)
+
+> CanSIPS model output all of Canada. Focus is places on precipitation anomalies and 2m temperature. This site includes recent verification statistics.
+
+----------
 
 ### World Meteorological Society Sub-Seasonal Forecast
 
